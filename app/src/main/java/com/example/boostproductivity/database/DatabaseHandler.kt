@@ -99,7 +99,7 @@ class DatabaseHandler(context: Context) :
         val db = this.writableDatabase
         //Inserting a row
         val result = db.insert(TABLE_PRODUCTIVITY,null, values)
-        //closing db
+
         db.close()
 
         return result
