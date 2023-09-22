@@ -23,3 +23,8 @@ to edit and swipe to delete.</p>
     </tbody>
 </table>
 <hr size="4" noshade="">
+<ul>
+    <li><h5>Task Management App:</h5>Developed a productivity-enhancing Android app allowing users to organize tasks by date, including time and detailed descriptions.</li>
+    <li><h5>Room Database Integration:</h5>Implemented a robust task management system with SQLite Room Database, ensuring efficient storage and retrieval of date-wise tasks.</li>
+    <li><h5>Enhanced User Experience:</h5>Implemented user-friendly features such as swipe-to-edit and swipe-to-delete functionality, streamlining task management and boosting overall productivity.</li>
+</ul>
