@@ -3,7 +3,7 @@
 I have used SQLite Database to store data and added features like swipe<br>
 to edit and swipe to delete.</p>
 <hr size="4" noshade="">
-<table>
+<table align="center">
     <thead>
         <tr>
           <th colspan="3"><b>Screenshots</b></th>
@@ -16,9 +16,9 @@ to edit and swipe to delete.</p>
             <td>View Your Tasks</td>
         </tr>
         <tr>
-            <td><img src="img1.jpeg" widht="300"></td>
-            <td><img src="img2.jpeg" widht="300"></td>
-            <td><img src="img3.jpeg" widht="300"></td>
+            <td><img src="img1.jpeg" widht="300" height="500"></td>
+            <td><img src="img2.jpeg" widht="300" height="500"></td>
+            <td><img src="img3.jpeg" widht="300" height="500"></td>
         </tr>
     </tbody>
 </table>
