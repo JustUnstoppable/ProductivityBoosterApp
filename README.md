@@ -1,7 +1,7 @@
 # <h1 align="center">Productivity Booster  App</h1>
-<p align="center"> It's an app to store date-wise tasks with time and description. <br>
-I have used SQLite Database to store data and added features like swipe<br>
-to edit and swipe to delete.</p>
+<p align="center"> I developed an Android task management app aimed at boosting productivity. This app allows users to efficiently store and organize tasks by date, 
+    including detailed descriptions and specific times. The project features seamless data storage using SQLite Room Database and introduces user-friendly functionality 
+    such as swipe-to-edit and swipe-to-delete, enhancing the overall task management experience.</p>
 <hr size="4" noshade="">
 <table align="center">
     <thead>
